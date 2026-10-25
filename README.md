@@ -1,4 +1,4 @@
-# Soundarya-Umesh-Barigidad
+### Soundarya-Umesh-Barigidad
 # 💫 About Me:
 👋 Hi, I'm Soundarya Umesh Barigidad<br><br>🎓 Engineering Student passionate about technology and innovation.<br><br>🚀 Working on projects that solve real-world problems and improve my technical skills.<br><br>🔐 Developed a Cyber Security Threat Intelligence Dashboard to explore cybersecurity risks and threat intelligence.<br><br>🤖 Exploring Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).<br><br>🌱 Continuously learning new technologies, building projects, and improving my problem-solving skills.<br><br>🎯 Goal: To become a skilled Software Engineer, technology professional and contribute to innovative projects.<br><br>🤝 Open to learning opportunities, collaborations, and technology internships.<br><br>
 
